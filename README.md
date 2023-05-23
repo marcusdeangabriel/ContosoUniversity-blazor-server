@@ -1,4 +1,4 @@
-# Contoso University Blazor Server, no WebAssembly (WASM).
+# Contoso University Blazor Server, no WebAssembly
 
 Contoso University is a sample application that demonstrates how to
 use the Entity Framework Core in an ASP.NET Core Blazor server web
